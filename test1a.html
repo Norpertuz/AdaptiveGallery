@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="styles.css">
+	<meta name="description" content="Test" />
+	<meta name="keywords" content="Test" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="author" content="Norbert Kamionka">
+	<script src="parallel.js"></script>
+	<title>Adaptive Image Gallery</title>
+</head>
+<body>
+<div id="test_info">Wykonywanie testu wydajnościowego... Może to chwilę potrwać.</div>
+
+<div id="test"></div>
+
+<script>
+var startTime, endTime;
+perform_test(); 
+ function start() {
+startTime = new Date();
+
+}
+function  end() {
+  endTime = new Date();
+  
+  var timeDiff = endTime - startTime; 
+  console.log(timeDiff + " ms");
+
+  var seconds = Math.round(timeDiff / 1000);
+ 
+  console.log(seconds + " seconds");
+  document.getElementById("test").innerHTML = document.getElementById("test").innerHTML + seconds + " seconds " + "(" + timeDiff + " ms) |";
+  //window.close();
+ // window.open("assign_perf_var.php?result="+timeDiff);
+  window.location.replace("assign_perf_var.php?result="+timeDiff);
+}
+
+function perform_test(){
+start();
+multithread_test();
+}
+
+function multithread_test(){ // sprawdza czy liczba jest pierwsza 
+    var load = 303595777; //stopien obiazenia procesora - liczba do sprawdzenia
+	var p = new Parallel([load,load,load,load,load,load,load,load,load,load,load,load,load,load,load]); // ilosc watkow
+    log = function () { console.log(arguments); end();};                              
+	function test_one(n) {
+                             
+	  for (k = 2; k < n; k++) {
+											
+		if(n%k == 0) {return true;} // liczba nie jest pierwsza i funkcja sie konczy zwracajac true gdy znajdzie jakas podzielnosc
+											
+	  }
+	}					
+	p.map(test_one).then(log); 					
+};
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+13-01-2022 18:04:26 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):855
+13-01-2022 18:04:30 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):851
+13-01-2022 18:06:35 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):8989
+13-01-2022 18:14:47 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):857
+13-01-2022 19:09:55 || 192.168.8.101 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):852
+13-01-2022 19:10:39 || 192.168.8.100 || DESKTOP-U8S4T8R || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):3502
+13-01-2022 19:11:02 || 192.168.8.100 || DESKTOP-U8S4T8R || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):2696
+14-01-2022 13:12:21 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):834
+14-01-2022 13:17:26 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):835
+14-01-2022 13:18:15 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):829
+14-01-2022 13:18:53 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:19:22 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:19:23 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:19:24 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:20:24 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:21:05 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:21:24 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):849
+14-01-2022 13:21:32 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):844
+14-01-2022 13:22:36 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):834
+14-01-2022 13:27:55 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9032
+14-01-2022 13:34:43 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):851
+14-01-2022 13:48:37 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):17924
+14-01-2022 13:56:12 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):17810
+14-01-2022 13:58:30 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):8935
+14-01-2022 13:59:37 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):17941
+14-01-2022 14:12:11 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):17797
+14-01-2022 14:40:54 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9131
+14-01-2022 14:41:38 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):8931
+14-01-2022 14:55:44 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):8944
+14-01-2022 14:58:40 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):850
+14-01-2022 14:59:18 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9057
+14-01-2022 15:23:38 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):35562
+14-01-2022 15:24:56 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):35570
+14-01-2022 15:26:57 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):18666
+14-01-2022 15:27:23 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):18075
+14-01-2022 15:31:57 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):23362
+14-01-2022 15:33:20 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):30609
+14-01-2022 15:34:16 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):19997
+14-01-2022 15:35:15 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9300
+14-01-2022 15:35:30 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9949
+14-01-2022 15:36:06 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9119
+14-01-2022 15:38:23 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9050
+14-01-2022 15:39:45 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9012
+14-01-2022 15:41:43 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9112
+14-01-2022 15:42:50 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9109
+14-01-2022 15:50:43 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):874
+14-01-2022 15:55:36 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):843
+14-01-2022 15:56:56 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):832
+14-01-2022 15:57:41 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9158
+14-01-2022 15:58:56 || 192.168.8.112 || LINUX || Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36 || Wynik(ms):18273
+14-01-2022 16:24:17 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):833
+14-01-2022 16:24:39 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):840
+14-01-2022 16:25:06 || 192.168.8.102 || Norpertuz || Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):9037
+14-01-2022 16:56:30 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):858
+14-01-2022 19:51:34 || 192.168.8.122 || DESKTOP-N8HTC6P || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 || Wynik(ms):14674
+14-01-2022 20:10:26 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):835
+14-01-2022 20:12:52 || 192.168.8.122 || 192.168.8.122 || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 || Wynik(ms):14686
+14-01-2022 20:42:35 || 192.168.8.122 || 192.168.8.122 || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 || Wynik(ms):11464
+14-01-2022 21:01:13 || 192.168.8.122 || 192.168.8.122 || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):11435
+15-01-2022 12:49:17 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):830
+15-01-2022 14:37:50 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):833
+15-01-2022 14:53:18 || 127.0.0.1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):840
+19-01-2022 14:26:29 || 192.168.8.100 || DESKTOP-U8S4T8R || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):2714
+19-01-2022 14:28:34 || 192.168.8.100 || DESKTOP-U8S4T8R || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 || Wynik(ms):2782
+23-01-2022 18:43:07 || 192.168.8.113 || DESKTOP-QT8P31H || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36 || Wynik(ms):17046
+29-01-2022 15:01:02 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 || Wynik(ms):833
+31-01-2022 11:26:43 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 || Wynik(ms):847
+31-01-2022 11:27:06 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 || Wynik(ms):839
+23-04-2022 14:03:03 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):843
+23-04-2022 14:06:17 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):847
+23-04-2022 14:08:29 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):852
+23-04-2022 14:08:52 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):849
+23-04-2022 14:13:39 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):855
+23-04-2022 14:16:54 || ::1 || Norpertuz || Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 || Wynik(ms):847
